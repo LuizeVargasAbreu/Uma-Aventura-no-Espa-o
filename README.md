@@ -1,5 +1,6 @@
 # Uma Aventura no Espaço
-**Jogo educacional desenvolvido como parte do Trabalho de Conclusão para Curso do curso de Ciência da Computação na UFPel.**
+
+> ### **Jogo educacional desenvolvido como parte do Trabalho de Conclusão para Curso do curso de Ciência da Computação na UFPel.**
 
 - **Descrição:**
 Baseado em uma atividade desplugada que explora o Pensamento Computacional (PC), o jogo **"Uma Aventura no Espaço"** proporciona uma jornada educativa, onde a aventura espacial é combinada com o aprendizado de conceitos importantes da Computação, como vetores e matrizes.
